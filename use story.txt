@@ -1,0 +1,15 @@
+As a superAdmin i need to :
+ - authenticate 
+ - accept guest house
+ - refuse guest house
+
+
+as user manager i need to :
+  - authenticate
+  - create, manage guest house
+
+
+As user client i need to :
+  - authenticate 
+  - Reserve guest house
+  
